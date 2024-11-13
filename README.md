@@ -63,12 +63,12 @@ Factor analysis is employed to reduce dimensionality and identify latent structu
 
 The model is represented by the equation:
 
-   \( X = QF + U + \mu \)
+   $$ X = QF + U + \mu $$
 
 Where:
 
-- \( X \): Observed variables.
-- \( Q \): Factor loadings.
+- $ X $: Observed variables.
+- $ Q $: Factor loadings.
 - \( F \): Latent factors.
 - \( U \): Unique factors (specific to each observed variable).
 - \( \mu \): Mean vector of \( X \).
