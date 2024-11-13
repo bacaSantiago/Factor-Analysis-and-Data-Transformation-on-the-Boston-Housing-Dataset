@@ -67,8 +67,8 @@ The model is represented by the equation:
 
 Where:
 
-- $ X $: Observed variables.
-- $ Q $: Factor loadings.
+- \( X \): Observed variables.
+- \( Q \): Factor loadings.
 - \( F \): Latent factors.
 - \( U \): Unique factors (specific to each observed variable).
 - \( \mu \): Mean vector of \( X \).
